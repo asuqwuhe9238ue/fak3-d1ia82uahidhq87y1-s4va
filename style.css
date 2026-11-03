@@ -690,7 +690,7 @@ body.screen-2 .circle2 {
     height: 11%;
     margin: auto auto;
     position: absolute;
-    bottom: -2%;
+    bottom: -5%;
     padding: 30px;
     background: rgba(0, 0, 0);
     backdrop-filter: blur(5px); 
