@@ -640,7 +640,7 @@ body.screen-2 .container-diisnosti {
 .circle4 {
   border-radius: 50%;
   position: absolute;
-  top: 77%;
+  top: 80%;
   transform: translate(-50%, -50%);
   transition: all 0.3s ease;
 }
