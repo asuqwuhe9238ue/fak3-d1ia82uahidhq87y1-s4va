@@ -685,19 +685,22 @@ body.screen-2 .circle2 {
   background-color: white;
 }
 
-.down-bar {    
+.down-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
     width: 100%;
     height: 13%;
-    margin: auto auto;
-    position: absolute;
-    bottom: -6%;
+    box-sizing: border-box;
+
     padding: 30px;
-    background: rgba(0, 0, 0);
-    backdrop-filter: blur(5px); 
+    margin: 0;
+
+    background: #000;
     color: white;
-    text-align: left;
     font-family: "E-Ukraine-Regular";
-  }
+}
 
   .strichka {
     width: 125px;
