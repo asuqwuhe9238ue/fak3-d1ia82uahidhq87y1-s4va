@@ -69,7 +69,7 @@ body.screen-2 .container-document-2 {
 /* Третий въезжает и становится как обычный документ */
 body.screen-2 .container-document-3 {
   right: 10%;      /* ставим по центру, подгони при необходимости */
-  top: 11.5%;
+  top: 15%;
   height: 58%;     /* как у остальных */
   opacity: 1;
 }
@@ -406,7 +406,7 @@ body::before {
     height: 58%;
     margin: auto auto;
     position: absolute;
-    top: 11.5%;
+    top: 15%;
     padding: 30px;
     border-radius: 70px;
     background: white;
