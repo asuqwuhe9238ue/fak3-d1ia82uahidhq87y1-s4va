@@ -254,10 +254,10 @@ body::before {
 
 .qrcode {
   position: absolute;
-  left: 14%;
-  top: 16%;
-  width: 75%;
-  height: 50%;
+  left: 10%;
+  top: 17%;
+  width: 80%;
+  height: 52%;
 }
 
 .qr-button {
@@ -690,7 +690,7 @@ body.screen-2 .circle2 {
     height: 11%;
     margin: auto auto;
     position: absolute;
-    bottom: -0.5%;
+    bottom: -0.7%;
     padding: 30px;
     background: rgba(0, 0, 0);
     backdrop-filter: blur(5px); 
