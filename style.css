@@ -200,7 +200,7 @@ body::before {
     height: 58%;
     margin: auto auto;
     position: absolute;
-    top: 11.5%;
+    top: 15%;
     padding: 30px;
     border-radius: 70px;
     background: rgba(255, 255, 255, 0.650);
@@ -220,7 +220,7 @@ body::before {
     height: 58%;
     margin: auto auto;
     position: absolute;
-    top: 11.5%;
+    top: 15%;
     padding: 30px;
     border-radius: 70px;
     background: rgb(255, 255, 255);
